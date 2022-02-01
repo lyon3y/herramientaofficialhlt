@@ -1,7 +1,7 @@
 # hltnew
-git clone https://github.com/lyon3y/herramienthlt.git
+git clone https://github.com/lyon3y/herramientaofficialhlt.git
 
-cd herramienthlt
+cd herramientaofficialhlt
 
 ls
 
