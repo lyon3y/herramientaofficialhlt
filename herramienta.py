@@ -1,4 +1,4 @@
-rom colors import green, red, blue, yellow, purple, white
+from colors import green, red, blue, yellow, purple, white
 
 import os, time
 
