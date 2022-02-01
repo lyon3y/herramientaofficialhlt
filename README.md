@@ -1,5 +1,5 @@
 # hltnew
-git clone https://github.com/lyon3y/hltnew.git
+git clone https://github.com/lyon3y/herramienthlt.git
 
 cd hltnew
 
