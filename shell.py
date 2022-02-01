@@ -4,7 +4,7 @@ def loop():
 	shell()
 
 def shell():
-	shell = input("\nroot@yorkox:~# ")
+	shell = input("\nroot@lyon:~# ")
 
 	if shell == "info":
 		print("Shell created by hlt")
