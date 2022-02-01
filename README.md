@@ -1,7 +1,7 @@
 # hltnew
 git clone https://github.com/lyon3y/herramienthlt.git
 
-cd hltnew
+cd herramienthlt
 
 ls
 
